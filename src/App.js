@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
           <br></br>
-          Feature branch update
+          Feature branch update and also deploying into BlueWhale
         </p>
         <a
           className="App-link"
